@@ -7,6 +7,10 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
